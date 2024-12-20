@@ -1,0 +1,8 @@
+common:
+  platform_allow:
+    - custom_plank
+  integration_platforms:
+    - custom_plank
+  harness: ctest
+tests:
+  runner.example: {}
